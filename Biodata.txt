@@ -1,3 +1,4 @@
 Nama : Aleyksa
 NIM  : 21101155
-Kelas : Q
+Matkul : Cloud Computing
+Jam : 19.50-10.20
